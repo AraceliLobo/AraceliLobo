@@ -18,12 +18,12 @@
 <p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-3-evaluacion-final-AraceliLobo">Rick & Morty app</a>: a responsive web application developed with React, external API integration. </p>
 <p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">TV shows app</a>: JavaScript application to find tv shows. API and localStorage implementation.</p>
 <p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">Profile cards app </a>: JavaScript application to create digital profile cards. API and localStorage implementation.</p>
-<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p>
+<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
 
-<p align="right">
-See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
-</p></samp>
 <details>
   <summary><b>:raising_hand: More about me</b></summary>
   I have a degree in journalism and I studied a Master in publishing. In 2014 I created my own publishing house <a href="http://www.srloboediciones.com/">Señor Lobo Ediciones</a>. I'm a reading lover! :heartpulse::books:
 </details>
+<samp><p align="right">
+See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
+</p></samp>
