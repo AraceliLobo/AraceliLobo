@@ -28,3 +28,5 @@
 See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
 </p></samp>
 <img src="https://peachies.carrd.co/assets/images/image03.gif?v18987758088751" width="70px">
+
+<samp>Thanks for coming!</samp>
