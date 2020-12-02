@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="80px">
-👋 Hi! My name is Araceli and I'm a front-end developer in Spain. I'm also a graphic designer. I'm working with JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team.
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="80px"> Hi! My name is Araceli and I'm a front-end developer in Spain. I'm also a graphic designer. I'm working with JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team.
 
 #### Current technologies:
 
