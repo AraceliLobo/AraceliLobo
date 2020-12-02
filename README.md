@@ -15,10 +15,10 @@
 
 #### Some of my projects:
 
-<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-3-evaluacion-final-AraceliLobo">Rick & Morty app</a>: a responsive web application developed with React, external API integration. </p>
-<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">TV shows app</a>: JavaScript application to find tv shows. API and localStorage implementation.</p>
-<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">Profile cards app </a>: JavaScript application to create digital profile cards. API and localStorage implementation.</p>
-<p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
+<p>:space_invader: <a href="https://github.com/AraceliLobo/modulo-3-evaluacion-final-AraceliLobo">Rick & Morty app</a>: a responsive web application developed with React, external API integration. </p>
+<p>:tv: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">TV shows app</a>: JavaScript application to find tv shows. API and localStorage implementation.</p>
+<p>:card_index: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">Profile cards app </a>: JavaScript application to create digital profile cards. API and localStorage implementation.</p>
+<p>:card_index: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
 
 <details>
   <summary>:raising_hand:<b>More about me</b></summary>
@@ -27,4 +27,4 @@
 <samp><p align="right">
 See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
 </p></samp>
-<img src="https://peachies.carrd.co/assets/images/image03.gif?v18987758088751" width="80px">
+<img src="https://peachies.carrd.co/assets/images/image03.gif?v18987758088751" width="70px">
