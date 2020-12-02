@@ -21,10 +21,10 @@
 <p>:small_blue_diamond: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
 
 <details>
-  <summary><b>More about me</b></summary>
+  <summary>:raising_hand:<b>More about me</b></summary>
   I have a degree in journalism and I studied a Master in publishing. In 2014 I created my own publishing house <a href="http://www.srloboediciones.com/">Señor Lobo Ediciones</a>. I'm a reading lover! :heartpulse::books:
 </details>
 <samp><p align="right">
 See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
 </p></samp>
-<img src="https://peachies.carrd.co/assets/images/image03.gif?v18987758088751" width="50px">
+<img src="https://peachies.carrd.co/assets/images/image03.gif?v18987758088751" width="80px">
