@@ -17,8 +17,8 @@
 
 <p>:space_invader: <a href="https://github.com/AraceliLobo/modulo-3-evaluacion-final-AraceliLobo">Rick & Morty app</a>: a responsive web application developed with React, external API integration. </p>
 <p>:tv: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">TV shows app</a>: JavaScript application to find tv shows. API and localStorage implementation.</p>
-<p>:card_index: <a href="https://github.com/AraceliLobo/modulo-2-evaluacion-final-AraceliLobo">Profile cards app </a>: JavaScript application to create digital profile cards. API and localStorage implementation.</p>
-<p>:card_index: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4)">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
+<p>:card_index: <a href="https://github.com/AraceliLobo/project-promo-k-module-2-team-8">Profile cards app </a>: JavaScript application to create digital profile cards. API and localStorage implementation.</p>
+<p>:card_index: <a href="https://github.com/AraceliLobo/project-promo-k-module-3-team-4">Refactoring Profile cards app </a>: refactoring project with react.</p></samp>
 
 <details>
   <summary> <b>More about me </b><img src="https://github.com/AraceliLobo/AraceliLobo/blob/main/images/Super-Mario-Retro-Mushroom.png" width="20px"></summary>
