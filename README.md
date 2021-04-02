@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin:2px">
-<img src="https://c0.klipartz.com/pngpicture/653/226/gratis-png-mysql-thumbnail.png" alt="Git" width="50" style="margin:2px">
+<img src="https://www.clicdata.com/wp-content/uploads/2019/01/mysql-logo.png" alt="Git" width="60" style="margin:2px">
 </p>
 
 #### Some of my projects:
