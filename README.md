@@ -1,16 +1,18 @@
-<p align="center"><img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="80px"></p><samp>👋 Hi! My name is Araceli and I'm a front-end developer in Spain. I'm also a graphic designer. I'm working with JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team. I'm currently learning PHP and other back technologies.
+👋 Hi! My name is Araceli and I'm a front-end developer in Spain. I'm also a graphic designer. I'm working with JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team. I'm currently learning back-end technologies.
 
 #### Current technologies:
 
 <p>
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin:2px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" alt="PHP" width="50" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" style="margin:2px">
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin:2px">
+<img src="https://c0.klipartz.com/pngpicture/653/226/gratis-png-mysql-thumbnail.png" alt="Git" width="50" style="margin:2px">
 </p>
 
 #### Some of my projects:
@@ -27,6 +29,6 @@
 <samp><p align="right">
 See you on <a href="https://twitter.com/sralobo85">Twitter</a> <img src="https://media.giphy.com/media/MNa0HKdhc3SGQ/giphy.gif" width="60px">
 </p></samp>
-<img src="https://i.pinimg.com/originals/30/29/e0/3029e081d7064945c3ad85cc00b39b19.gif" width="70px">
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="80px">
 
 <samp>Thanks for coming!</samp>
