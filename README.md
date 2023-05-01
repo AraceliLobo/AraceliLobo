@@ -1,4 +1,4 @@
-👋 Hi! My name is Araceli and I'm a front-end developer in Spain. I'm also a graphic designer. I'm working with JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team. I'm currently working with back-end technologies.
+👋 Hi! My name is Araceli and I'm a Full Stack Developer in Spain. I'm also a graphic designer. I'm working with PHP, Laravel, JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap). I'm creative and I love working in a team. I'm currently working with back-end technologies.
 
 #### Current technologies:
 
